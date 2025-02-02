@@ -2,3 +2,4 @@
 ||m2.tuyaeu.com^
 ||ktpx.amazon.com^
 ||unagi-na.amazon.com^
+||aca-livecards-service.amazon.com^
