@@ -1,4 +1,7 @@
-||unagi-eu.amazon.com^
-||ktpx-eu.amazon.com^
+||unagi-na.amazon.com^
+||ktpx.amazon.com^
+||dp-gw-na.amazon.com^
+||dcape-na.amazon.com^
+||softwareupdates.amazon.com^
 ||a3.tuyaeu.com^
 ||m2.tuyaeu.com^
