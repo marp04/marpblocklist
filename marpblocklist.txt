@@ -1,0 +1,4 @@
+||unagi-eu.amazon.com^
+||ktpx-eu.amazon.com^
+||a3.tuyaeu.com^
+||m2.tuyaeu.com^
