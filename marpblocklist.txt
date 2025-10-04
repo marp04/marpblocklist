@@ -1,3 +1,4 @@
 ||a3.tuyaeu.com^
 ||m2.tuyaeu.com^
 ||dus01.ps4.update.playstation.net^
+||fus01.ps4.update.playstation.net^
